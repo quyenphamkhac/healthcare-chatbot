@@ -87,6 +87,9 @@ audio/*
 # migrations
 app/migrations/versions/*
 
+# db
+db/*.db
+
 # modality worklist files
 WorklistDatabase/*
 MPPSDatabase/*
